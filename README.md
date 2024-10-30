@@ -1,4 +1,5 @@
 # SG-XNet
-Applying transfer learning techniques like fine tuning, feature extractions to different GNN models to observe the performance gain compared to baseline methods. And implementing a new hybrid model SG-XNet
+__Applying and comparing transfer learning techniques on different GNNs for Node Classification tasks__.
+__Proposing a Hybrid model based on GraphSAGE and GCN integration, Called SG-XNet__.
 
 ![](SGXNet.png)
